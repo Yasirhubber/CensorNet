@@ -236,6 +236,8 @@ https://github.com/Divested-Mobile/extirpater
 <br>
 💣 Strong Pass | https://security.org
 <br>
+💣 Strong Pass | https://password-checker.io
+<br>
 💣 Strong Pass | https://www.passwordmonster.com
 <br>
 🔓 Leak URL | https://www.threatcop.ai/phishing-url-checker.php
